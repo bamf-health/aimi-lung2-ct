@@ -164,3 +164,7 @@ cython_debug/
 # folders
 data/
 qa-results/
+
+# files
+*.dcm
+*.nii.gz
